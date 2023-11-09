@@ -167,7 +167,7 @@ p{
   justify-content: center;
   align-items: center;
 }
-@media screen and (min-width: 481px) {
+@media screen and (min-width: 362px) {
   .bn5 {
     padding: 0.6em 0.6em;
     background-size: 200%;
