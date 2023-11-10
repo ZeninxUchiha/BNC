@@ -312,7 +312,7 @@ nav a:focus {
   z-index: 1000;
 }
 
-@media screen and (min-width: 362px) {
+@media screen and (min-width: 350px) {
   .logo
   {
     font-size: 30px;
